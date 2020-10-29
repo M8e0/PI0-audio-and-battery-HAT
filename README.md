@@ -1,2 +1,2 @@
 # RaspberryPiRecorder
-a raspberry pi 0 audio and battery enabled power supply
+A Raspberry Pi 0 audio card with battery enabled power supply 
